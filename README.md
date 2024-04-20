@@ -1,0 +1,1 @@
+# CalculadoraAdapter
